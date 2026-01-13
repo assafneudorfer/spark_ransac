@@ -56,7 +56,7 @@ Traditional RANSAC implementations are CPU-bound due to thousands of iterations.
 1. Clone the repository:
 ```bash
 git clone <your-repo-url>
-cd mobileye_assaignment
+cd ransac_spark
 ```
 
 2. Install dependencies:
