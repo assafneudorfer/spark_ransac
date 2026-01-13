@@ -56,7 +56,7 @@ Traditional RANSAC implementations are CPU-bound due to thousands of iterations.
 1. Clone the repository:
 ```bash
 git clone <your-repo-url>
-cd ransac_spark
+cd spark_ransac
 ```
 
 2. Install dependencies:
